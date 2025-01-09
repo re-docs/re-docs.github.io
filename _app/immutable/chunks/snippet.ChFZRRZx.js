@@ -1,0 +1,1 @@
+import{z as o,E as f,A as i,B as p,C as c,w as d,D as h}from"./runtime.Did4smys.js";function _(e,n,...t){var s=e,r=p,a;o(()=>{r!==(r=n())&&(a&&(c(a),a=null),a=i(()=>r(s,...t)))},f),d&&(s=h)}export{_ as s};
