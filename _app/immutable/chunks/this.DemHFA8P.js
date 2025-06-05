@@ -1,1 +1,0 @@
-import{x,v as T,j as c,y as j,S as q}from"./runtime.Did4smys.js";function k(i,r){return i===r||(i==null?void 0:i[q])===r}function A(i={},r,S,h){return x(()=>{var s,f;return T(()=>{s=f,f=(h==null?void 0:h())||[],c(()=>{i!==S(...f)&&(r(i,...f),s&&k(S(...s),i)&&r(null,...s))})}),()=>{j(()=>{f&&k(S(...f),i)&&r(null,...f)})}}),i}export{A as b};
